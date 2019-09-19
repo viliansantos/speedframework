@@ -598,9 +598,9 @@
         }
       ]
     },
-    "page1.html": {
+    "template1.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "",
         "title": "Template1",
         "order": 1
       },
