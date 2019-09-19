@@ -1792,10 +1792,22 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rCteHE5CwM {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-rCtRYiEtOh {
+  background-image: url("../../../assets/images/audi-1440x834.png");
+}
+.cid-rCtRYiEtOh h1 {
+  color: #616161;
+}
+.cid-rCtRYiEtOh h2,
+.cid-rCtRYiEtOh h3,
+.cid-rCtRYiEtOh p {
+  color: #767676;
+}
+.cid-rCtRYiEtOh .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rCtRYiEtOh H1 {
+  color: #ffffff;
 }
 .cid-rCteQvtl3E {
   padding-top: 90px;
