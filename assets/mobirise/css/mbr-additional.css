@@ -1809,35 +1809,10 @@ section.lazy-placeholder:after {
 .cid-rCtRYiEtOh H1 {
   color: #ffffff;
 }
-.cid-rCteQvtl3E {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rCteQvtl3E h3 {
-  text-align: center;
-}
-.cid-rCteQvtl3E .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rCteQvtl3E .mbr-content-text {
-  color: #767676;
-}
-.cid-rCteQvtl3E .panel-item {
-  background: #ffffff;
-}
-.cid-rCteQvtl3E .card {
-  word-wrap: break-word;
-}
-.cid-rCteQvtl3E .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
 .cid-rCteXIlx5g {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #f9f295;
 }
 .cid-rCteXIlx5g .mbr-section-subtitle,
 .cid-rCteXIlx5g .mbr-text {
@@ -1868,24 +1843,15 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
 }
 .cid-rCteXIlx5g .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
+  background-color: #232323;
   display: none;
   transition: opacity .3s;
-}
-.cid-rCteXIlx5g .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
 }
 .cid-rCteXIlx5g .card-wrapper .card-img img {
   width: 100%;
 }
 .cid-rCteXIlx5g .card-wrapper .card-box {
-  background-color: #ffffff;
+  background-color: #232323;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -1906,19 +1872,22 @@ section.lazy-placeholder:after {
   display: block !important;
   opacity: 0;
 }
-.cid-rCteXIlx5g .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rCteXIlx5g .card-img:hover .mbr-overlay {
   opacity: .5;
 }
-.cid-rCteXIlx5g .card-img:hover .mbr-section-btn {
-  opacity: 1;
+.cid-rCteXIlx5g .mbr-section-title {
+  color: #232323;
+}
+.cid-rCteXIlx5g .mbr-section-subtitle {
+  color: #465052;
+}
+.cid-rCteXIlx5g .card-title {
+  color: #ffffff;
 }
 .cid-rCteVGthWo {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rCteVGthWo h4 {
   text-align: left;
@@ -1953,10 +1922,14 @@ section.lazy-placeholder:after {
     padding-left: 0;
   }
 }
+.cid-rCteVGthWo .card-title,
+.cid-rCteVGthWo .card-img {
+  color: #ffffff;
+}
 .cid-rCtf1ieQpq {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
   .cid-rCtf1ieQpq .content {
